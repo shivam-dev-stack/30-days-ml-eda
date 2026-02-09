@@ -1,0 +1,46 @@
+Machine Learning
+What is ML
+
+Machine learning (ML), a field within artificial intelligence (AI), utilizes data and algorithms to emulate human learning processes, progressively enhancing its precision.
+
+Types of ML
+
+Supervised learning involves training machines with labeled data (also known as training data) to enable them to make predictions. Labeled data is data that has already been tagged with one or more names and is familiar to the computer.
+
+Real-world applications of supervised learning include:
+Image and object recognition
+Predictive analytics
+Customer sentiment analysis
+Spam detection
+And various other applications.
+Unsupervised learning algorithms analyze data sets lacking labeled responses. Their primary goal is to uncover the inherent, natural structure present within the data points. Key unsupervised learning techniques include:
+Clustering: Methods like K-means, hierarchical clustering, and DBSCAN are used to group objects so that members within the same group share greater similarity with each other than with objects in other groups.
+
+Association: These algorithms identify rules that characterize significant portions of the data, a process often exemplified by market basket analysis.
+
+Principal Component Analysis (PCA): This is a statistical procedure employing an orthogonal transformation to convert potentially correlated variables into a set of linearly uncorrelated variables.
+
+Autoencoders: A specialized form of neural network designed to learn efficient encodings of unlabeled data.
+Reinforcement learning involves algorithms that learn to make a sequence of decisions to achieve a goal in an uncertain and potentially complex environment. An agent in this learning paradigm makes choices by following a policy—a strategy for which actions to take—and adapts based on the consequences (rewards or penalties) of those actions.
+
+Key reinforcement learning methods include:
+Q-learning: A model-free algorithm that determines the value of an action within a specific state.
+
+Deep Q-Networks (DQN): This method integrates Q-learning with deep neural networks, enabling the learning of successful policies directly from complex, high-dimensional sensory inputs.
+
+Policy Gradient Methods: Unlike value-based methods, these techniques directly optimize the parameters of the action policy.
+
+Monte Carlo Tree Search (MCTS): Employed in decision-making processes, particularly in games like Go, to find optimal actions by simulating various scenarios.
+
+These types of reinforcement learning algorithms offer a diverse set of approaches within the broader field of machine learning, each suited for different problems and use cases.
+
+Deep learning later now no intro 
+
+
+
+
+Types of Supervised Learning:
+Regression 
+Classification
+
+
